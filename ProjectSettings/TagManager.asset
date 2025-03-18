@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TwoPathNode
+  - ThreePathNode
+  - FourPathNode
+  - Straight
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - BackGround
+  - Water
+  - UI
+  - PostProcess
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 587788821
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: TrafficRoad
+    uniqueID: 3895707481
+    locked: 0
+  - name: NavigationPath
+    uniqueID: 1162041681
+    locked: 0
+  - name: TrafficNode
+    uniqueID: 1486901499
+    locked: 0
+  - name: Car
+    uniqueID: 1543812323
+    locked: 0
+  - name: NodeName
+    uniqueID: 4224494023
+    locked: 0

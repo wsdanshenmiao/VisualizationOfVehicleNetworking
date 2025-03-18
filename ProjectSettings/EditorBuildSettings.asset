@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MacroRoad.unity
+    guid: be95ccd952b22ac4c8540957285f31fb
+  - enabled: 1
+    path: Assets/Scenes/Straight.unity
+    guid: aacf5f1c3f68a934284e457c9bdabea4
+  - enabled: 1
+    path: Assets/Scenes/Three paths.unity
+    guid: 7ed469c5d758133489d76e8fe6c0e3a0
+  - enabled: 1
+    path: Assets/Scenes/Four paths.unity
+    guid: 77fb1217502d5d444b959f65058598b9
+  m_configObjects: {}
